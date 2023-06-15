@@ -5,9 +5,6 @@ An improvement of the conventional potential field method was used to control an
 
 It was used the programming language Lua to create the logic of the simulation.  Lua is a cross-platform, since the interpreter of compiled bytecode is written in ANSI C, and Lua has a relatively simple C API to embed it into applications.
 
-##Video
-The simulation can be checked on YouTube in the following URL:
-https://youtu.be/oXjDEPD139U
 
 ## Tecnologies Used
 
@@ -15,3 +12,7 @@ V-REP: Pro EDU 6.2 version (The software can be downloaded using the following U
 Remarks: I have used the Windows installer package to open the simulation.
 Windows 11
 
+## Video
+
+The simulation can be checked on YouTube in the following URL:
+https://youtu.be/oXjDEPD139U
